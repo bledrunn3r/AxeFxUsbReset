@@ -1,3 +1,4 @@
-axefx-usb-reset
 *.o
 *.dSYM/
+axefx-usb-reset-arm64
+axefx-usb-reset-x86_64
